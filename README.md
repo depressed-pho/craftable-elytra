@@ -22,11 +22,11 @@ players from creating any long-term builds in that dimension.
 
 ![Crafting recipe for Elytra](doc/recipe-elytra.png)
 
-Elytra can now be crafted with 7 [Reinforced Membranes](#Reinforced
-Membrane) and 1 [Nether Star](https://minecraft.wiki/w/Nether_Star). It
-inherently requires 63 [Phantom
-Membranes](https://minecraft.wiki/w/Phantom_Membrane) in total, which makes
-it no easy to craft but still renewable.
+Elytra can now be crafted with 7 [Reinforced
+Membranes](#reinforced-membrane) and 1 [Nether
+Star](https://minecraft.wiki/w/Nether_Star). It inherently requires 63
+[Phantom Membranes](https://minecraft.wiki/w/Phantom_Membrane) in total,
+which makes it no easy to craft but still renewable.
 
 ## Reinforced Membrane
 
