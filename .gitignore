@@ -1,0 +1,12 @@
+# Editor backups
+*~
+
+# npm
+node_modules
+
+# Built files
+dist
+*.mcpack
+
+# Files that are intentionally uncommitted
+.env

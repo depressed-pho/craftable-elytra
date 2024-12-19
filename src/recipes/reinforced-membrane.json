@@ -1,0 +1,25 @@
+{
+    "format_version": "1.21.51",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "craftable-elytra:reinforced-membrane"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [
+            {
+                "item": "minecraft:phantom_membrane",
+                "count": 9
+            }
+        ],
+        "result": [
+            {
+                "item": "craftable-elytra:reinforced-membrane"
+            }
+        ],
+        "unlock": [
+            {
+                "item": "minecraft:phantom_membrane"
+            }
+        ]
+    }
+}

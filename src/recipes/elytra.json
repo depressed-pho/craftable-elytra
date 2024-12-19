@@ -1,0 +1,35 @@
+{
+    "format_version": "1.21.51",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "craftable-elytra:elytra"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "###",
+            "#*#",
+            "# #"
+        ],
+        "key": {
+            "#": {
+                "item": "craftable-elytra:reinforced-membrane"
+            },
+            "*": {
+                "item": "minecraft:nether_star"
+            }
+        },
+        "result": [
+            {
+                "item": "minecraft:elytra"
+            }
+        ],
+        "unlock": [
+            {
+                "item": "craftable-elytra:reinforced-membrane"
+            },
+            {
+                "item": "minecraft:nether_star"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "craftable-elytra",
+  "version": "1.0.0",
+  "description": "Allow players to craft elytra with expensive materials",
+  "scripts": {
+    "build": "cicada-build",
+    "clean": "cicada-build clean",
+    "distclean": "cicada-build distclean",
+    "install-addon": "cicada-build install",
+    "watch": "cicada-build watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depressed-pho/craftable-elytra.git"
+  },
+  "author": "PHO",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/depressed-pho/craftable-elytra/issues"
+  },
+  "homepage": "https://github.com/depressed-pho/craftable-elytra#readme",
+  "devDependencies": {
+    "cicada-build": "github:depressed-pho/cicada-build"
+  }
+}
