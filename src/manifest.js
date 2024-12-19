@@ -1,6 +1,7 @@
 module.exports = {
     common: {
         name: "Craftable Elytra",
+        icon: "craftable-elytra.png",
         min_engine_version: "1.21.51"
     },
     packs: [
