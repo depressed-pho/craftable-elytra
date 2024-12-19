@@ -15,7 +15,6 @@
             "minecraft:icon": {
                 "texture": "phantom_membrane"
             },
-            "minecraft:glint": true,
             "minecraft:rarity": "uncommon"
         }
     }
