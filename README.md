@@ -33,7 +33,7 @@ which makes it no easy to craft but still renewable.
 ![Crafting recipe for Reinforced Membrane](doc/recipe-reinforced-membrane.png)
 
 A single piece of Reinforced Membrane requires 9 Phantom Membranes to
-craft. This item serves no purpose other than being an intermediate
+craft. This item serves no purpose other than to be an intermediate
 material for crafting Elytra.
 
 
